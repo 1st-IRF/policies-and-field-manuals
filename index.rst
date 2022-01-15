@@ -1,27 +1,27 @@
-Welcome to 1st Rapid Response Force - Field Manual
+Welcome to 1st International Response Force - Field Manual
 =========================================================================
 
 =================================================
-About the 1st Rapid Response Force
+About the 1st International Response Force
 =================================================
 
-The 1st Rapid Response Force [1RRF] is an ARMA III Simulation unit which specializes in executing highly authentic MILSIM operations.
+The 1st International Response Force [1IRF] is an ARMA III Simulation unit which specializes in executing highly authentic MILSIM operations.
 
-If you are interested in joining a group with a strong dedication to realism and full spectrum simulation then visit our website at `1st-rrf.com`_
+If you are interested in joining a group with a strong dedication to realism and full spectrum simulation then visit our website at `1st-irf.com`_
 
-.. _1st-rrf.com: https://1st-rrf.com
+.. _1st-irf.com: https://1st-irf.com
 
 =================================================
 About the Field Manual
 =================================================
 
-The 1st RRF Field Manual is our central resource of all written information and documentation. It forms the core structure, policies and tactics of the unit both in and out of the game environment. The entire manual is published at `documentation.1st-rrf.com`_ and can be downloaded as both a PDF and Ebook should members wish to read the document in a different setting.
+The 1st IRF Field Manual is our central resource of all written information and documentation. It forms the core structure, policies and tactics of the unit both in and out of the game environment. The entire manual is published at `documentation.1st-irf.com`_ and can be downloaded as both a PDF and Ebook should members wish to read the document in a different setting.
 
 Our training is specific to our game environment however a lot of the content is portable within the wider ARMA community. In the interest of transparency and to try to pay back the wider community we license this manual under CC BY-NC 3.0 (https://creativecommons.org/licenses/by-nc/3.0/) which means you can adapt, modify and redistribute this content as long as you do not financially profit from it and that you attribute the source document back to us.
 
-We are always interested in establishing cross training and modpack compatability with other groups in the ARMA community. If you would like to standardize your training around our documentation then we are always happy to help explain the documents as well as establish training programs and an operational relationship with your unit. Simply get in touch with us by joining our teamspeak at ts.1st-rrf.com.
+We are always interested in establishing cross training and modpack compatability with other groups in the ARMA community. If you would like to standardize your training around our documentation then we are always happy to help explain the documents as well as establish training programs and an operational relationship with your unit. Simply get in touch with us by joining our teamspeak at ts.1st-irf.com.
 
-.. _documentation.1st-rrf.com: https://documentation.1st-rrf.com
+.. _documentation.1st-irf.com: https://documentation.1st-irf.com
 
 =================================================
 Training Programs:
