@@ -8,7 +8,7 @@ This runs contrary to some other units courtesies policies that require officers
 Rank Structure
 ---------------
 
-We use the following ranks within the 1IRF. The promotion policies and guidelines are below - this section is purely to show what ranks we use and how they are configured:
+We use the following ranks within the 1st IRF. The promotion policies and guidelines are below - this section is purely to show what ranks we use and how they are configured:
 
 **PV1 through to SPC**
 
@@ -37,23 +37,14 @@ These ranks are available to officers in both the infantry and aviation. These r
 Promotion Policy
 -----------------
 
-Promotions are issued weekly after the weekly Unit Training Excercise.
+In the IRF, our promotion system is based on an adaption of real life. It uses a system based on five factors, Promotion points, Time in Service, Training, Promotion Board and Deployments.
 
-Promotions should be handed out in abstentia in the event that a member is not in attendance of a given training event.
+Ranks are limited by the position you occupy. If you wish to reach the highest ranks, you must accept higher levels of leadership, responsibility or specialisation. In the event that you decide to move back to a position with a lower rank cap than your current rank, you will be capped at the rank of the position. Upon moving to a higher capped rank, your rank will be restored to its normal level, with no time on grade credit.
 
-Each week S1 will prepare for the Unit Commander a summary of all eligible promotions within the unit and will provide notification to the direct chain of command that the member is promotable. Objections to promotion should be raised back through the relevant chain of command within 48 hours of original notification at which time the Unit Commander has the final say on whether the member will promote.
+Promotion points are earned for attendance of events and training programs. Promotions points can also be removed for failing to attend events you have committed to and for negative disciplinary action.
 
-Promotion eligibility is determined on the following criteria:
+Time in Service is the time since your last promotion. This means that to reach high ranks you must remain with the IRF for an extended period of time. Many of our members have been in the group for years; We are not a short term commitment.
 
-**Time in Service**
-
-Each rank has an allocated time in service requirement which must be met to become eligible for promotion.
-
-**Training Requirments**
-
-Some ranks will require the completion of some qualifications. These will naturally be built up over the course of a member's time in the unit however leadership should constantly evaluate which training programs will offer the best progression opportunities to their element. 
-
-For example a fire team leader may organise an Air Assault training for his team as he knows several of his fireteam members have aspirations to join the ODA teams. As he is aware of this intent he would schedule this training to help them reach their goals within the unit.
 
 **Interview when moving corps**
 
@@ -65,101 +56,44 @@ Ranks in the Reserves
 Members in the reserves are subject to the same set of promotion and rank requirements as active duty members. No penalty nor benefit is imposed on members within the reserve corps.
 
 Rank Requirements
-------------------
+-----------------
 
-Each rank requires all of the eligibility requirements of the rank before it. For example if PV2 requires the basic introductory program all subsequent ranks in the unit also require the completion of this program.
+**Enlisted**
 
-**PV1**
 
-No requirements
+Rank  |  Paygrade  |  Promotion Points  |  Time in Service ( Days )  |  Trainings  |  Special Notes  |  Deployments	|
+Recruit ( PV1 )	E-1	0	0	
+Private ( PV2 )	E-2	10	0	Basic Combat Training	
+Private First Class ( PFC )	E-3	20	14	Any AIT Program and BCT	
+Specialist( SPC. )	E-4	35	30	Any AIT Program and BCT	
+Corporal (CPL)	E-4	45	42	Any AIT Program and BCT	CPL can also be achieved by qualifying through the expedited Leadership development program.	1
+Sergeant (SGT)	E-5	60	60	Any WLC Program, Any AIT Program and BCT	Promotion Board required	1
+Staff Sergeant (SSG)	E-6	70	90	Any WLC Program, Any AIT Program and BCT	Promotion Board Required	2
+Sergeant First Class ( SFC )	E-7	100	180	Any WLC Program, Any AIT Program and BCT	Promotion Board Required	4
+Master Sergeant ( MSG )	E-8	150	360	Any WLC Program, Any AIT Program and BCT	Promotion Board Required	10
+First Sergeant ( 1SGT )	E-8	165	430	Any WLC Program, Any AIT Program and BCT	Promotion Board Required	10
+Sergeant Major ( SGM )	E-9	200	540	Any WLC Program, Any AIT Program and BCT	Promotion Board Required	15
+Command Sergeant Major ( CSM )	E-9	250	600	Any WLC Program, Any AIT Program and BCT	Promotion Board Required	17
 
-**PV2**
 
-Training Completed: Basic Introductory Program
+**Warrant Officer Ranks**
 
-**PFC**
+Rank	Paygrade	Promotion Points	Time in Service ( Days )	Trainings	Special Notes	Deployments
+Warrant Officer Candidate ( WOC )	W-0	50	60	Any AIT Program and BCT	Assignment by Command Appointment Only	
+Warrant Officer ( WO1 )	W-1	50	60	WOCS	
+Chief Warrant Officer ( CW2 )	W-2	100	90	WOCS	
+1
+Chief Warrant Officer ( CW3 )	W-3	130	180	WOCS	
+Chief Warrant Officer ( CW3 )	W-4	150	270	WOCS	
+Chief Warrant Officer ( CW5 )	W-5	200	360	WOCS	
 
-Time in Service: 7 days
+**Officer Ranks**
 
-**SPC**
-
-Time in Service: 20 days
-Training Completed: At least one additional qualification
-
-**CPL**
-
-Time in Service: 28 days
-Training Completed: FTL Qualification
-
-**SGT**
-
-Time in Service: 35 days
-
-**SSG**
-
-Time in Service: 56 days
-Training Completed: SL Qualification
-
-**SFC**
-
-Time in Service: 70 days
-Training Completed: PSG Qualification
-
-**MSG**
-
-Time in Service: 150 days
-Training Completed: 
-	* ODA Selection Pipeline
-
-**SGM**
-
-Time in Service: 360 days
-Training Completed: 
-	* ODA Selection Pipeline
-
-**WOC**
-
-No Requirements
-
-**WO1**
-
-Training Completed: Aviation Introductory Qualification
-
-**CW2**
-
-Time in Service: 20 days
-Training Completed: Any one additional aviation training qualification
-
-**CW3**
-
-Time in Service: 40 days
-Training Completed: Aircraft Commander Qualification
-
-**CW4**
-
-Time in Service: 56 days
-
-**CW5**
-
-Time in Service: 70 days
-
-**2LT**
-
-Time in Service: 90 days
-Training Completed:
-	* Advanced Leadership Qualification
-	* Either Platoon Leader Qualification or Squadron Commander Qualification
-
-**1LT**
-
-Time in Service: 115 days
-
-**CPT**
-
-Time in Service: 200 days
-
-**MAJ**
-
-Time in Service: 360 days
-Special Nomination - Requires a unaninmous board approval of the promotion
-
+Rank	Paygrade	Promotion Points	Time in Service ( Days )	Trainings	Special Notes	Deployments
+2nd Lieutenant ( 2LT )	O-1	100	360	OCS	Awarded upon graduation from OCS by the Unit Commander.	5
+1st Lieutenant ( 1LT )	O-2	120	90 ( Time in Service in the Officer Corps )	OCS	
+2 ( Deployments as an Officer )
+Captain ( CPT )	O-3	150	360 Time in Service in the Officer Corps )	OCS	
+4 ( Deployments as an Officer )
+Major ( MAJ )	O-4	200	360 Time in Service in the Officer Corps )	OCS	
+10 ( Deployments as an Officer )
